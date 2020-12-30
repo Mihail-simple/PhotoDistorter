@@ -1,0 +1,1 @@
+0;pi;0;1;sin(x)/cos(y);xy

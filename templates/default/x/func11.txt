@@ -1,0 +1,1 @@
+-1;1;;;sinh(x)*cosh(x)*0.1^abs(x);x

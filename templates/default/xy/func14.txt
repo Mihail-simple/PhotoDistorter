@@ -1,0 +1,1 @@
+-4*pi;4*pi;-4*pi;4*pi;sin(abs(x))^2+sin(abs(y))^2;xy

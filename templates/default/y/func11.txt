@@ -1,0 +1,1 @@
+;;-1;1;sinh(y)*cosh(y)*0.1^abs(y);y
